@@ -1,0 +1,24 @@
+MATRIX Qwen Image 2.1 Dataset Workflow
+Copyright 2026 MATRIX LAB
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+The MATRIX LAB name and logos are not licensed under the Apache License.
+Apache License 2.0 section 6 does not grant permission to use MATRIX LAB
+trade names, trademarks, service marks, or product names except as required
+for reasonable and customary attribution.
+
+This repository contains workflow JSON and documentation only. It does not
+redistribute ComfyUI, custom-node source, or model weights.
+
+Third-party components referenced by the workflows:
+
+- ComfyUI: GNU General Public License v3.0.
+- MATRIX-LAB-Nodes: its repository license applies.
+- ComfyUI-Fantastic-MiniMaxH3-PromptBuilder: its repository license applies.
+- rgthree-comfy: its repository license applies.
+- Qwen Image 2.1 weights and the Pruna derivative: Qwen Research License,
+  non-commercial unless separately licensed.
+- BFS Best Face Swap LoRA: MIT License.
+
+All third-party names and marks belong to their respective owners.

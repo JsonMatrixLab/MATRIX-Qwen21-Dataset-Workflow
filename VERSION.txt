@@ -1,0 +1,11 @@
+Product: MATRIX Qwen Image 2.1 Dataset Workflow V4
+Package: 1.0.0
+Date: 2026-10-14
+Normal sampling: 25 steps; Euler; beta scheduler
+Turbo sampling: 8 fixed steps; Euler; manual sigmas
+ComfyUI build boundary: 0.37.0 plus b33e2b55cae074eca5aec96283cceac19aa249ba
+Frontend build boundary: 1.53.6
+MATRIX-LAB-Nodes: f71fb38dea39f6052ff4e883c18fecc7ec07d199
+Fantastic MiniMax H3 Prompt Builder: 23038f5050acdcbb8e938bfd7c87a18d2cc84aab
+rgthree-comfy: 449c58fcdd612f7733e54c51f6758ead63fa180b
+Repository: https://github.com/JsonMatrixLab/MATRIX-Qwen21-Dataset-Workflow
